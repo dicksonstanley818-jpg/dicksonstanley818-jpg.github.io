@@ -9,7 +9,7 @@ date,region,class,special,runoff,offyear,disabled,candidate,party,voteshare
 01/11/1999,Arkansas,3,FALSE,FALSE,FALSE,TRUE,Republican,REP,1.00
 01/11/1999,California,1,FALSE,FALSE,FALSE,TRUE,Democratic,DEM,1.00
 01/11/1999,California,3,FALSE,FALSE,FALSE,TRUE,Democratic,DEM,1.00
-01/11/1999,Colorado,2,FALSE,FALSE,FALSE,FALSE,Democratic,DEM,0.091
+01/11/1999,Colorado,2,FALSE,FALSE,FALSE,FALSE,Republican,REP,0.009
 01/11/1999,Colorado,3,FALSE,FALSE,FALSE,TRUE,Democratic,DEM,1.00
 01/11/1999,Connecticut,1,FALSE,FALSE,FALSE,TRUE,Democratic,DEM,1.00
 01/11/1999,Connecticut,3,FALSE,FALSE,FALSE,TRUE,Democratic,DEM,1.00
@@ -31,8 +31,8 @@ date,region,class,special,runoff,offyear,disabled,candidate,party,voteshare
 01/11/1999,Iowa,3,FALSE,FALSE,FALSE,TRUE,Republican,REP,1.00
 01/11/1999,Kansas,2,FALSE,FALSE,FALSE,FALSE,Republican,REP,0.096
 01/11/1999,Kansas,3,FALSE,FALSE,FALSE,TRUE,Republican,REP,1.00
-01/11/1999,Kentucky,2,FALSE,FALSE,FALSE,FALSE,Democratic,DEM,0.011
-01/11/1999,Kentucky,3,FALSE,FALSE,FALSE,TRUE,Republican,REP,1.00
+01/11/1999,Kentucky,2,FALSE,FALSE,FALSE,FALSE,Democratic,DEM,0.182
+01/11/1999,Kentucky,3,FALSE,FALSE,FALSE,FALSE,Democratic,DEM,0.011
 01/11/1999,Louisiana,2,FALSE,FALSE,FALSE,FALSE,Democratic,DEM,0.138
 01/11/1999,Louisiana,3,FALSE,FALSE,FALSE,TRUE,Republican,REP,1.00
 01/11/1999,Maine,1,FALSE,FALSE,FALSE,TRUE,Democratic,DEM,1.00
